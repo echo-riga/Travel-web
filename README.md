@@ -2,7 +2,7 @@
 
 ## Live Demo:
 <div align="center">
-  <a href="[https://riga1231.github.io/Travel-web/](https://echo-riga.github.io/Travel-web/)" style="color:blue; font-size: 18px; font-weight: bold; text-decoration: none;">
+  <a href="https://riga1231.github.io/Travel-web/](https://echo-riga.github.io/Travel-web/" style="color:blue; font-size: 18px; font-weight: bold; text-decoration: none;">
     View Live Demo
   </a>
 </div>
